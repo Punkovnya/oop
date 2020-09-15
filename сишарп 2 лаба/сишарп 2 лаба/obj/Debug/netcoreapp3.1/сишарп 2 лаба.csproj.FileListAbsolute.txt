@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\bin\Debug\netcoreapp3.1\сишарп 2 лаба.exe
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\bin\Debug\netcoreapp3.1\сишарп 2 лаба.deps.json
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\bin\Debug\netcoreapp3.1\сишарп 2 лаба.runtimeconfig.json
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\bin\Debug\netcoreapp3.1\сишарп 2 лаба.runtimeconfig.dev.json
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\bin\Debug\netcoreapp3.1\сишарп 2 лаба.dll
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\bin\Debug\netcoreapp3.1\сишарп 2 лаба.pdb
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\obj\Debug\netcoreapp3.1\сишарп 2 лаба.csprojAssemblyReference.cache
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\obj\Debug\netcoreapp3.1\сишарп 2 лаба.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\obj\Debug\netcoreapp3.1\сишарп 2 лаба.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\obj\Debug\netcoreapp3.1\сишарп 2 лаба.AssemblyInfo.cs
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\obj\Debug\netcoreapp3.1\сишарп 2 лаба.dll
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\obj\Debug\netcoreapp3.1\сишарп 2 лаба.pdb
+C:\Users\User\source\repos\сишарп 2 лаба\сишарп 2 лаба\obj\Debug\netcoreapp3.1\сишарп 2 лаба.genruntimeconfig.cache
