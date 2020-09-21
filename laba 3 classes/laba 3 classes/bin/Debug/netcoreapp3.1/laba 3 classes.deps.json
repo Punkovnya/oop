@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "laba 3 classes/1.0.0": {
+        "runtime": {
+          "laba 3 classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba 3 classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
