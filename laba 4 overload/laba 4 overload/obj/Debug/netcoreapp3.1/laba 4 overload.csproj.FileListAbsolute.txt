@@ -1,0 +1,13 @@
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\bin\Debug\netcoreapp3.1\laba 4 overload.exe
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\bin\Debug\netcoreapp3.1\laba 4 overload.deps.json
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\bin\Debug\netcoreapp3.1\laba 4 overload.runtimeconfig.json
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\bin\Debug\netcoreapp3.1\laba 4 overload.runtimeconfig.dev.json
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\bin\Debug\netcoreapp3.1\laba 4 overload.dll
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\bin\Debug\netcoreapp3.1\laba 4 overload.pdb
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\obj\Debug\netcoreapp3.1\laba 4 overload.csprojAssemblyReference.cache
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\obj\Debug\netcoreapp3.1\laba 4 overload.csproj.CoreCompileInputs.cache
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\obj\Debug\netcoreapp3.1\laba 4 overload.AssemblyInfoInputs.cache
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\obj\Debug\netcoreapp3.1\laba 4 overload.AssemblyInfo.cs
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\obj\Debug\netcoreapp3.1\laba 4 overload.dll
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\obj\Debug\netcoreapp3.1\laba 4 overload.pdb
+C:\Users\User\source\oop\laba 4 overload\laba 4 overload\obj\Debug\netcoreapp3.1\laba 4 overload.genruntimeconfig.cache

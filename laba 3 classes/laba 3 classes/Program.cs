@@ -10,9 +10,10 @@ namespace laba_3_classes
         const double PI = 3.14;
         static int countOfObject=0;
         readonly int HashCode;
-        public String hash = "HashCode";
-        
-        
+        public String hash = "circle";
+
+
+
 
         //private Circle(double RR, int CXX, int CYY) { 
 
@@ -36,26 +37,26 @@ namespace laba_3_classes
         }
         public override int GetHashCode()
         {
-            int HashCode = hash.GetHashCode();
+            
             int unitCode;
-            if (hash == "HashCode")
+            if (hash == "circle")
                 unitCode = 1;
             else unitCode = 2;
             return (int)HashCode + unitCode;
         }
-        public double Radius
-        {
-            get 
+            public double Radius
             {
-                return radius;
-            }
+                get 
+                {
+                    return radius;
+                }
 
-            set
-            {
-                radius=value;
-            }
+                set
+                {
+                    radius=value;
+                }
 
-        }
+            }
         public int CenterX
         {
             get
@@ -84,6 +85,7 @@ namespace laba_3_classes
         }
         public Circle()
         {
+            HashCode = 2;
             countOfObject++;
             Console.WriteLine("Создан круг");
             Console.WriteLine($"Количество уже созданных кругов: {countOfObject}");
@@ -97,7 +99,7 @@ namespace laba_3_classes
         public Circle(double R, int Cx, int Cy)
         {
             countOfObject++;
-            
+            HashCode = 2;
             radius = R;
             centerX = Cx;
             centerY = Cy;
@@ -108,6 +110,7 @@ namespace laba_3_classes
         }
         public Circle(double R)
         {
+            HashCode = 3;
             countOfObject++;
             radius = R;
             centerX = 0;
@@ -158,12 +161,14 @@ namespace laba_3_classes
             newCircle[0] = circleOne;
             newCircle[1] = circleTwo;
             newCircle[2] = circleThree;
-            if (newCircle[0].CenterX == newCircle[1].CenterX)
-                Console.WriteLine("первый и второй");
-            if (newCircle[1].CenterX == newCircle[2].CenterX)
-                Console.WriteLine("второй и третий");
-            if (newCircle[0].CenterX == newCircle[2].CenterX)
-                Console.WriteLine("первый и третий");
+            for (int i = 0; i < newCircle.Length;i++)
+            {
+                for ( int j = 0 + i; j < newCircle.Length; j++)
+                if(newCircle[i].CenterX == newCircle[j].CenterX)
+                    {
+                        Console.WriteLine($" Круг номер {i} с радиусом {newCircle[i].CenterX}= Круг номер{j} с радиусом {newCircle[j].CenterX}");
+                    }
+            }
             double maxSquare = 0;
             for (int i = 0; i < 3; i++)
             {

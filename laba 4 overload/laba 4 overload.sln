@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba 4 overload", "laba 4 overload\laba 4 overload.csproj", "{FD4F998A-6F86-4EEB-80AF-6B40A062EA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4F998A-6F86-4EEB-80AF-6B40A062EA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4F998A-6F86-4EEB-80AF-6B40A062EA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4F998A-6F86-4EEB-80AF-6B40A062EA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4F998A-6F86-4EEB-80AF-6B40A062EA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5CD59BA-EA0C-49FC-9C87-023D1D08F9F0}
+	EndGlobalSection
+EndGlobal
