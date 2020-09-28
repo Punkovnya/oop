@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\сишарп 2 лаба\\сишарп 2 лаба\\сишарп 2 лаба.csproj": {}
+    "C:\\Users\\User\\source\\oop\\сишарп 2 лаба\\сишарп 2 лаба\\сишарп 2 лаба.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\сишарп 2 лаба\\сишарп 2 лаба\\сишарп 2 лаба.csproj": {
+    "C:\\Users\\User\\source\\oop\\сишарп 2 лаба\\сишарп 2 лаба\\сишарп 2 лаба.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\сишарп 2 лаба\\сишарп 2 лаба\\сишарп 2 лаба.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\oop\\сишарп 2 лаба\\сишарп 2 лаба\\сишарп 2 лаба.csproj",
         "projectName": "сишарп 2 лаба",
-        "projectPath": "C:\\Users\\User\\source\\repos\\сишарп 2 лаба\\сишарп 2 лаба\\сишарп 2 лаба.csproj",
+        "projectPath": "C:\\Users\\User\\source\\oop\\сишарп 2 лаба\\сишарп 2 лаба\\сишарп 2 лаба.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\сишарп 2 лаба\\сишарп 2 лаба\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\oop\\сишарп 2 лаба\\сишарп 2 лаба\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

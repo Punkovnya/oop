@@ -29,7 +29,7 @@ namespace laba_3_classes
         {
             if (obj == null)
                 return false;
-            Circle m = obj as Circle; // возвращает null если объект нельзя привести к типу Money
+            Circle m = obj as Circle; 
             if (m as Circle == null)
                 return false;
 
@@ -93,7 +93,7 @@ namespace laba_3_classes
         static Circle()
         {
             
-            Console.WriteLine("Создан круг");
+            Console.WriteLine("Создан кругиииииииии");
         }
 
         public Circle(double R, int Cx, int Cy)
@@ -137,6 +137,7 @@ namespace laba_3_classes
     {
         static void Main(string[] args)
         {
+
             double Radius,PI=0;int CenterX, CenterY;
             Console.WriteLine("Radius:");
             Radius = Convert.ToDouble(Console.ReadLine());
