@@ -1,0 +1,9 @@
+C:\Users\User\source\oop\laba 6 structure\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+C:\Users\User\source\oop\laba 6 structure\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\User\source\oop\laba 6 structure\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\User\source\oop\laba 6 structure\MyLib\obj\Debug\netcoreapp3.1\MyLib.csprojAssemblyReference.cache
+C:\Users\User\source\oop\laba 6 structure\MyLib\obj\Debug\netcoreapp3.1\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\oop\laba 6 structure\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+C:\Users\User\source\oop\laba 6 structure\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+C:\Users\User\source\oop\laba 6 structure\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\User\source\oop\laba 6 structure\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb
