@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a7dMi1CrF9NOytGdqz9ZruiZ+S9i8MOJypx9yZ1oJSJ5+1EAguJu/In05qsbWcGo7QwUCklkUUnbcnUU/0V8gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\laba 7 exception\\MyLib\\MyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

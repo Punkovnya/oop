@@ -1,0 +1,16 @@
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\bin\Debug\netcoreapp3.1\laba 6 structure.exe
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\bin\Debug\netcoreapp3.1\laba 6 structure.deps.json
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\bin\Debug\netcoreapp3.1\laba 6 structure.runtimeconfig.json
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\bin\Debug\netcoreapp3.1\laba 6 structure.runtimeconfig.dev.json
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\bin\Debug\netcoreapp3.1\laba 6 structure.dll
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\bin\Debug\netcoreapp3.1\laba 6 structure.pdb
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\obj\Debug\netcoreapp3.1\laba 6 structure.csprojAssemblyReference.cache
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\obj\Debug\netcoreapp3.1\laba 6 structure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\obj\Debug\netcoreapp3.1\laba 6 structure.AssemblyInfoInputs.cache
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\obj\Debug\netcoreapp3.1\laba 6 structure.AssemblyInfo.cs
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\obj\Debug\netcoreapp3.1\laba 6 structure.csproj.CopyComplete
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\obj\Debug\netcoreapp3.1\laba 6 structure.dll
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\obj\Debug\netcoreapp3.1\laba 6 structure.pdb
+C:\Users\User\source\oop\laba 6 structure\laba 6 structure\obj\Debug\netcoreapp3.1\laba 6 structure.genruntimeconfig.cache

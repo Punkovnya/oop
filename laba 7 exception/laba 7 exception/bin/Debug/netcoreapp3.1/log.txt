@@ -1,0 +1,27 @@
+
+18.10.2020 20:22:56
+   at laba_7_exception.Program.Main(String[] args) in C:\Users\User\source\oop\laba 7 exception\laba 7 exception\Program.cs:line 258
+Ошибка: Деление на ноль
+________________________________________________
+18.10.2020 20:22:56
+   at laba_7_exception.Aviation.Military..ctor() in C:\Users\User\source\oop\laba 7 exception\laba 7 exception\Program.cs:line 94
+   at laba_7_exception.Program.Main(String[] args) in C:\Users\User\source\oop\laba 7 exception\laba 7 exception\Program.cs:line 287
+Ошибка:Нельзя создать самолет без параметров
+________________________________________________
+18.10.2020 20:22:56
+   at laba_7_exception.Program.Main(String[] args) in C:\Users\User\source\oop\laba 7 exception\laba 7 exception\Program.cs:line 304
+Ошибка:Index was outside the bounds of the array.
+________________________________________________
+18.10.2020 20:23:58
+   at laba_7_exception.Program.Main(String[] args) in C:\Users\User\source\oop\laba 7 exception\laba 7 exception\Program.cs:line 258
+Ошибка: Деление на ноль
+________________________________________________
+18.10.2020 20:23:58
+   at laba_7_exception.Aviation.Military..ctor() in C:\Users\User\source\oop\laba 7 exception\laba 7 exception\Program.cs:line 94
+   at laba_7_exception.Program.Main(String[] args) in C:\Users\User\source\oop\laba 7 exception\laba 7 exception\Program.cs:line 287
+Ошибка:Нельзя создать самолет без параметров
+________________________________________________
+18.10.2020 20:23:58
+   at laba_7_exception.Program.Main(String[] args) in C:\Users\User\source\oop\laba 7 exception\laba 7 exception\Program.cs:line 304
+Ошибка:Index was outside the bounds of the array.
+________________________________________________

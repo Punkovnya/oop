@@ -2,6 +2,26 @@
 
 namespace MyLib
 {
+
+        
+        public  struct BestPlane
+    {
+
+
+        public Aviation.Boeing Aviation;
+        public BestPlane(Aviation.Boeing Aviation)
+        {
+            this.Aviation = Aviation;
+        }
+        public void getBestPlane()
+        {
+            Aviation.ToString();
+        }
+
+
+
+
+    }
     public class Printer
     {
 
@@ -137,7 +157,7 @@ namespace MyLib
             {
                 Console.WriteLine($"грузоподъемность пассажирского транспорта - {Weight},объем топливного отсека - {Fuel} , дальность полета - {Km}, количество мест - {Seats}");
             }
-            public int Seats { get; set; }
+            new public int Seats { get; set; }
             public override int Weight { get; set; }
             public override int Fuel { get; set; }
             public override int Km { get; set; }
