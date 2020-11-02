@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\obj\Debug\netcoreapp3.1\laba 9 delegates.csprojAssemblyReference.cache
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\obj\Debug\netcoreapp3.1\laba 9 delegates.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\obj\Debug\netcoreapp3.1\laba 9 delegates.AssemblyInfo.cs
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\obj\Debug\netcoreapp3.1\laba 9 delegates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\bin\Debug\netcoreapp3.1\laba 9 delegates.exe
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\bin\Debug\netcoreapp3.1\laba 9 delegates.deps.json
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\bin\Debug\netcoreapp3.1\laba 9 delegates.runtimeconfig.json
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\bin\Debug\netcoreapp3.1\laba 9 delegates.runtimeconfig.dev.json
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\bin\Debug\netcoreapp3.1\laba 9 delegates.dll
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\bin\Debug\netcoreapp3.1\laba 9 delegates.pdb
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\obj\Debug\netcoreapp3.1\laba 9 delegates.dll
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\obj\Debug\netcoreapp3.1\laba 9 delegates.pdb
+C:\Users\User\source\repos\laba 9 delegates\laba 9 delegates\obj\Debug\netcoreapp3.1\laba 9 delegates.genruntimeconfig.cache

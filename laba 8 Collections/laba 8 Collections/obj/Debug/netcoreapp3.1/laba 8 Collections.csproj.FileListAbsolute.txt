@@ -1,0 +1,13 @@
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\obj\Debug\netcoreapp3.1\laba 8 Collections.csprojAssemblyReference.cache
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\obj\Debug\netcoreapp3.1\laba 8 Collections.AssemblyInfoInputs.cache
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\obj\Debug\netcoreapp3.1\laba 8 Collections.AssemblyInfo.cs
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\obj\Debug\netcoreapp3.1\laba 8 Collections.csproj.CoreCompileInputs.cache
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\bin\Debug\netcoreapp3.1\laba 8 Collections.exe
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\bin\Debug\netcoreapp3.1\laba 8 Collections.deps.json
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\bin\Debug\netcoreapp3.1\laba 8 Collections.runtimeconfig.json
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\bin\Debug\netcoreapp3.1\laba 8 Collections.runtimeconfig.dev.json
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\bin\Debug\netcoreapp3.1\laba 8 Collections.dll
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\bin\Debug\netcoreapp3.1\laba 8 Collections.pdb
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\obj\Debug\netcoreapp3.1\laba 8 Collections.dll
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\obj\Debug\netcoreapp3.1\laba 8 Collections.pdb
+C:\Users\User\source\oop\laba 8 Collections\laba 8 Collections\obj\Debug\netcoreapp3.1\laba 8 Collections.genruntimeconfig.cache

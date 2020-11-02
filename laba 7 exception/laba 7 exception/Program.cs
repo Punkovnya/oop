@@ -222,7 +222,7 @@ namespace laba_7_exception
             this.message = message;
         }
     }
-    class WeightException : Exception
+    class WeightException:Exception
     {
         public string message;
         public int MinWeight;
@@ -257,7 +257,7 @@ namespace laba_7_exception
             {
                 z = x / y;
             }
-            catch (DivideByZeroException ex )
+            catch (DivideByZeroException ex) 
             {
                 StringBuilder log = new StringBuilder();
                 log.Append(DateTime.Now+"\n");
@@ -329,7 +329,12 @@ namespace laba_7_exception
             }
             finally
             {
-
+                StringBuilder log = new StringBuilder();
+                log.Append(DateTime.Now + "\n");
+                log.Append("Блок finally отчистка ресурсов в отлове исключений"+"\n");
+                log.Append("\n" + "________________________________________________" + "\n");
+                Logger.ConsoleLog(Convert.ToString(log));
+                Logger.FileLog(Convert.ToString(log));
             }
             static int Abs(int value)
             {
