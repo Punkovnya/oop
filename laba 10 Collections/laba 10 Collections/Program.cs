@@ -137,8 +137,8 @@ namespace laba_10_Collections
                         Console.WriteLine("Добавлен новый объект: " + newConcert.Name);
                         break;
                     case NotifyCollectionChangedAction.Remove:
-                        Concert oldIsland = e.OldItems[0] as Concert;
-                        Console.WriteLine("Удален объект: " + oldIsland.Name);
+                        Concert oldConcert = e.OldItems[0] as Concert;
+                        Console.WriteLine("Удален объект: " + oldConcert.Name);
                         break;
                 }
             }

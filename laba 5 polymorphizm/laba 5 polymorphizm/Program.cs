@@ -4,8 +4,7 @@ using System.Reflection;
 
 namespace laba_5_polymorphizm
 {
-    class Program
-    {
+    
 
 
         class Printer
@@ -190,6 +189,9 @@ namespace laba_5_polymorphizm
 
             }
         }
+
+    class Program
+    {
         static void Main(string[] args)
         {
             

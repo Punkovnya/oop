@@ -1,0 +1,34 @@
+ - ОАиП.rar
+ - $RECYCLE.BIN
+ - android studio
+ - Darkest Dungeon
+ - DCIM
+ - Fl
+ - Games
+ - Git
+ - msdownld.tmp
+ - MSOCache
+ - New Folder
+ - Recovery
+ - SQLL
+ - SQLServer2017Media
+ - Support
+ - System Volume Information
+ - Untitled Project
+ - VK
+ - Warcraft 3
+ - World of Warcraft
+ - WPF-RPiano-master
+ - андроид
+ - бля костя
+ - вижла
+ - корел
+ - лабочки
+ - мае
+ - мусор
+ - Мята
+ - Прога
+ - сервер
+ - сльюэль
+ - суда
+ - уже основа

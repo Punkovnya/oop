@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\bin\Debug\netcoreapp3.1\laba 13 File_System.exe
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\bin\Debug\netcoreapp3.1\laba 13 File_System.deps.json
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\bin\Debug\netcoreapp3.1\laba 13 File_System.runtimeconfig.json
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\bin\Debug\netcoreapp3.1\laba 13 File_System.runtimeconfig.dev.json
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\bin\Debug\netcoreapp3.1\laba 13 File_System.dll
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\bin\Debug\netcoreapp3.1\laba 13 File_System.pdb
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\obj\Debug\netcoreapp3.1\laba 13 File_System.csprojAssemblyReference.cache
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\obj\Debug\netcoreapp3.1\laba 13 File_System.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\obj\Debug\netcoreapp3.1\laba 13 File_System.AssemblyInfo.cs
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\obj\Debug\netcoreapp3.1\laba 13 File_System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\obj\Debug\netcoreapp3.1\laba 13 File_System.dll
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\obj\Debug\netcoreapp3.1\laba 13 File_System.pdb
+C:\Users\User\source\repos\laba 13 File_System\laba 13 File_System\obj\Debug\netcoreapp3.1\laba 13 File_System.genruntimeconfig.cache

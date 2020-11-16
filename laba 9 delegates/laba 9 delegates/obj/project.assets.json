@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\laba 9 delegates\\laba 9 delegates\\laba 9 delegates.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\oop\\laba 9 delegates\\laba 9 delegates\\laba 9 delegates.csproj",
       "projectName": "laba 9 delegates",
-      "projectPath": "C:\\Users\\User\\source\\repos\\laba 9 delegates\\laba 9 delegates\\laba 9 delegates.csproj",
+      "projectPath": "C:\\Users\\User\\source\\oop\\laba 9 delegates\\laba 9 delegates\\laba 9 delegates.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\laba 9 delegates\\laba 9 delegates\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\oop\\laba 9 delegates\\laba 9 delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "laba_12 Reflection/1.0.0": {
+        "runtime": {
+          "laba_12 Reflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba_12 Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

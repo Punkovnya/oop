@@ -5,7 +5,21 @@ using System.Linq;
 
 namespace laba_11_LINQ
 {
-
+    class Player
+    {
+        public string Name { get; set; }
+        public string Team { get; set; }
+    }
+    class Team
+    {
+        public string Name { get; set; }
+        public string Country { get; set; }
+    }
+    class User
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+    }
     class Circle 
     {
 
@@ -212,6 +226,46 @@ namespace laba_11_LINQ
                     Console.WriteLine($"Радиус-{t.Radius} Центр в координатах-({t.CenterX} {t.CenterY})");
                 Console.WriteLine();
             }
+          
+                List<User> users = new List<User>();
+
+            users.Add(new User { Name = "Sam", Age = 43 });
+            users.Add(new User { Name = "Tom", Age = 33 });
+            users.Add(new User { Name = "Jack", Age = 53 });
+            users.Add(new User { Name = "David", Age = 13 });
+
+            var names = from u in users
+                        where u.Name.Length == 3
+                        where u.Name.Contains("m") // кванторы
+                        select u.Name;
+
+            names.Skip(1); // разбиения
+            var namesGroup = from u in names
+                             group u by u.Contains("O");
+            foreach (string n in names)
+            Console.WriteLine(n);
+
+
+
+
+            List<Team> teams = new List<Team>()
+            {
+            new Team { Name = "Бавария", Country ="Германия" },
+            new Team { Name = "Барселона", Country ="Испания" }
+             };
+            List<Player> players = new List<Player>()
+             {
+             new Player {Name="Месси", Team="Барселона"},
+             new Player {Name="Неймар", Team="Барселона"},
+             new Player {Name="Роббен", Team="Бавария"}
+             };
+
+            var result = from pl in players
+                         join t in teams on pl.Team equals t.Name
+                         select new { Name = pl.Name, Team = pl.Team, Country = t.Country };
+
+            foreach (var item in result)
+                Console.WriteLine($"{item.Name} - {item.Team} ({item.Country})");
 
         }
     }
