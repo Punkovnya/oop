@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using System;
 using System.Runtime.Serialization.Formatters.Soap;
 using System.Text;
+using System.Xml.XPath;
+using System.Xml.Linq;
+using System.Linq;
 
 namespace laba_14_Serialization
 {
@@ -107,9 +110,35 @@ namespace laba_14_Serialization
                 fs.Close();
             }
         }
-        public CustomSerializer() {
+        public CustomSerializer() {}
+
+
+        static  public void Xpath()
+        {
+            XPathDocument xmldoc = new XPathDocument("xmlObj.xml");
+            Console.WriteLine("HERE");
+            foreach (XPathItem x in xmldoc.CreateNavigator().Select("//SerializableClass/Id"))
+                Console.WriteLine(x.Value);
+            Console.WriteLine();
+            
+            using (FileStream fs = new FileStream("xmlObj.xml", FileMode.OpenOrCreate))
+            {
+                XDocument xdoc = XDocument.Load(fs);
+                XElement root = xdoc.Element("SerializableClass");
+             
+                root.Add(new XElement("HumanPilot",
+                            new XElement("WeightOfMen", "100"),
+                            new XElement("Name", "Valera"),
+                            new XElement("Sex", "Man"),
+                            new XElement("Age", "20")));
+                xdoc.Save("xmlObjNew.xml");
+
+            }
+
         }
     }
+    
 }
+
 
 

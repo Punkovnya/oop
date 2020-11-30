@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\laba 13 File_System\\laba 13 File_System\\laba 13 File_System.csproj": {}
+    "C:\\Users\\User\\source\\oop\\laba 13 File_System\\laba 13 File_System\\laba 13 File_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\laba 13 File_System\\laba 13 File_System\\laba 13 File_System.csproj": {
+    "C:\\Users\\User\\source\\oop\\laba 13 File_System\\laba 13 File_System\\laba 13 File_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\laba 13 File_System\\laba 13 File_System\\laba 13 File_System.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\oop\\laba 13 File_System\\laba 13 File_System\\laba 13 File_System.csproj",
         "projectName": "laba 13 File_System",
-        "projectPath": "C:\\Users\\User\\source\\repos\\laba 13 File_System\\laba 13 File_System\\laba 13 File_System.csproj",
+        "projectPath": "C:\\Users\\User\\source\\oop\\laba 13 File_System\\laba 13 File_System\\laba 13 File_System.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\laba 13 File_System\\laba 13 File_System\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\oop\\laba 13 File_System\\laba 13 File_System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

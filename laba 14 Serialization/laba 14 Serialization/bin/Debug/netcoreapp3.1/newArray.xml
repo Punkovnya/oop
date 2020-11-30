@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializableClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>123</Id>
+  <Weight>2000</Weight>
+  <Human>
+    <LifeLength>100</LifeLength>
+    <Name>Valera</Name>
+    <Sex>Man</Sex>
+    <Age>20</Age>
+    <IQ>100</IQ>
+    <Permission>Yes</Permission>
+  </Human>
+</SerializableClass>

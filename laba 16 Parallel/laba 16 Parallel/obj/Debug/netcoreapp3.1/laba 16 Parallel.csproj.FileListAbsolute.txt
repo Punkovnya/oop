@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\obj\Debug\netcoreapp3.1\laba 16 Parallel.csprojAssemblyReference.cache
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\obj\Debug\netcoreapp3.1\laba 16 Parallel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\obj\Debug\netcoreapp3.1\laba 16 Parallel.AssemblyInfo.cs
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\obj\Debug\netcoreapp3.1\laba 16 Parallel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\bin\Debug\netcoreapp3.1\laba 16 Parallel.exe
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\bin\Debug\netcoreapp3.1\laba 16 Parallel.deps.json
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\bin\Debug\netcoreapp3.1\laba 16 Parallel.runtimeconfig.json
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\bin\Debug\netcoreapp3.1\laba 16 Parallel.runtimeconfig.dev.json
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\bin\Debug\netcoreapp3.1\laba 16 Parallel.dll
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\bin\Debug\netcoreapp3.1\laba 16 Parallel.pdb
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\obj\Debug\netcoreapp3.1\laba 16 Parallel.dll
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\obj\Debug\netcoreapp3.1\laba 16 Parallel.pdb
+C:\Users\User\source\repos\laba 16 Parallel\laba 16 Parallel\obj\Debug\netcoreapp3.1\laba 16 Parallel.genruntimeconfig.cache

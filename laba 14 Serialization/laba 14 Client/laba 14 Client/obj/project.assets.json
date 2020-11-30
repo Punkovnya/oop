@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\laba 14 Serialization\\laba 14 Client\\laba 14 Client\\laba 14 Client.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\oop\\laba 14 Serialization\\laba 14 Client\\laba 14 Client\\laba 14 Client.csproj",
       "projectName": "laba 14 Client",
-      "projectPath": "C:\\Users\\User\\source\\repos\\laba 14 Serialization\\laba 14 Client\\laba 14 Client\\laba 14 Client.csproj",
+      "projectPath": "C:\\Users\\User\\source\\oop\\laba 14 Serialization\\laba 14 Client\\laba 14 Client\\laba 14 Client.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\laba 14 Serialization\\laba 14 Client\\laba 14 Client\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\oop\\laba 14 Serialization\\laba 14 Client\\laba 14 Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

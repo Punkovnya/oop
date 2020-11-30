@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iq4YnGBZ9e0MS/CmqBbjK97x9OYv01PnkVws55gHGwgs0QbYQqijKqpDTPelsWwQhSpU7vhGFJGjNzXUUJpO1g==",
+  "dgSpecHash": "uhN+idjimJWTDl1Dl6uiOQWxXhFLTgqKvMJke1RTk+VX1viOXvdoutXl/fLG7n5Ehx2TiIZUNCkaxyvU3/VOuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\laba 14 Serialization\\laba 14 Serialization\\laba 14 Serialization.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\oop\\laba 14 Serialization\\laba 14 Serialization\\laba 14 Serialization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\soapformatter\\1.0.11\\soapformatter.1.0.11.nupkg.sha512"
   ],

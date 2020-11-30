@@ -30,7 +30,7 @@ namespace laba_14_Serialization
             customSerializer.MySOAPSerializer(militaryPlane);
             var soapRestored = customSerializer.MySOAPDeserializer(militaryPlane);
             Console.WriteLine(("восстановленый soap объект - " + soapRestored.ToString()));
-
+            CustomSerializer.Xpath();
             Server server = new Server();
             server.ServerStart();
             
